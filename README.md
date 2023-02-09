@@ -1,4 +1,4 @@
-![Логотип NeuroStartUp] (https://camo.githubusercontent.com/20e07938b443fb5803b241350e5a545f9ed13d9b45b9c92dd9c76db8e9f5bcfa/68747470733a2f2f692e696d6775722e636f6d2f53596543514a6e2e706e67)
+![Логотип NeuroStartUp](https://camo.githubusercontent.com/20e07938b443fb5803b241350e5a545f9ed13d9b45b9c92dd9c76db8e9f5bcfa/68747470733a2f2f692e696d6775722e636f6d2f53596543514a6e2e706e67)
 
 NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. 
 
